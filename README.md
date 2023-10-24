@@ -86,4 +86,4 @@ TBD
 ```
 
 ## Acknowledgement
-This project and datasets are constructed based on [the following repos:](https://github.com/thuml/Time-Series-Library)https://github.com/thuml/Time-Series-Library.
+This project and datasets are constructed based on https://github.com/thuml/Time-Series-Library.
