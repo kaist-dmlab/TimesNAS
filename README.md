@@ -67,7 +67,7 @@ Designing effective neural networks from scratch for various time-series analysi
 pip install -r requirements.txt
 ```
 
-2. **Prepare Data**. You can obtained the well pre-processed datasets from [Anonymous Dropbox](https://www.dropbox.com/s/kx0ddu39lxup8nz/all_datasets.zip). Then, place the downloaded data under the folder `./dataset`.
+2. **Prepare Data**. You can obtained the well pre-processed datasets from [Dropbox](https://www.dropbox.com/s/kx0ddu39lxup8nz/all_datasets.zip). Then, place the downloaded data under the folder `./dataset`.
 
 3. **Search and Train-Test Models**. Examples of search and train scripts are in the `scripts.sh` file. For example,
 
@@ -84,3 +84,6 @@ python -u trainer.py --task_name classification --gpu 0 --population_size 1000 -
 ```
 TBD
 ```
+
+## Acknowledgement
+This project and datasets are constructed based on [the following repos:](https://github.com/thuml/Time-Series-Library)https://github.com/thuml/Time-Series-Library.
