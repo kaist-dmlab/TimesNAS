@@ -1,5 +1,5 @@
 # TimesNAS
-This is the official implementation of the ***Time Series-Aware Zero-Shot Neural Architecture Search for General Time-Series Analysis*** paper _submitted to_ IEEE Transactions on Emerging Topics in Computational Intelligence
+This is the official implementation of the ***Time Series-Aware Zero-Shot Neural Architecture Search for General Time-Series Analysis*** paper _Under Review_ by IEEE Transactions on Emerging Topics in Computational Intelligence
 <!-- [[Paper]()] [[Slide]()] [[Video]()] -->
 
 ## Abstract
